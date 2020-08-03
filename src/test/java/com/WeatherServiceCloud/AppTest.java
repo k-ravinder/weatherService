@@ -1,4 +1,4 @@
-package com.HystrixSpringCloud;
+package com.WeatherServiceCloud;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
