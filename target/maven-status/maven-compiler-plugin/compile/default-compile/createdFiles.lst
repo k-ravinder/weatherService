@@ -1,0 +1,6 @@
+com/serviceCloud/model/WeatherBean.class
+com/serviceCloud/model/Main.class
+com/serviceCloud/service/WeatherServiceApplication.class
+com/serviceCloud/model/AppProperties.class
+com/serviceCloud/service/controller/WeatherController.class
+com/serviceCloud/serviceImp/SimpleRestClient.class
